@@ -189,6 +189,22 @@
 @@||spider-tracker.xiaohongshu.com^$important
 @@||t3.xiaohongshu.com^$important
 @@||fe.xiaohongshu.com^$important
+@@||trade.m.xiaomiyoupin.com^$important
+@@||m.xiaomiyoupin.com^$important
+
+# 以下是美团
+@@||img.meituan.net^$important
+@@||msp.meituan.com^$important
+@@||plx.meituan.com^$important
+
+# 以下是BT节点
+@@||mimc.chat.xiaomi.net^$important
+@@||ros-upload.xiaohongshu.com^$important
+@@||picasso-static.xiaohongshu.com^$important
+@@||tracker2.dler.org^$important
+@@||tracker.filemail.com^$important
+@@||public.tracker.vraphim.com^$important
+@@||torrent-team.net^$important
 
 # 以下是CDN
 @@||sns-img-hw.xhscdn.com.ctzcdn.cn^$important
@@ -276,12 +292,14 @@
 # 以下是腾讯
 @@||res2.wx.qq.com^$important
 @@||snsvideo.c2c.wechat.com^$important
+@@||video.qq.com^$important
 
 # 以下是IMG
 @@||sinaimg.cn^$important
 @@||imgcache.qq.com^$important
 @@||gimg3.baidu.com^$important
 @@||gtimg.com^$important
+@@||3gimg.qq.com^$important
 
 # 以下是加密相关
 @@||www.mytoken.news^$important
@@ -296,11 +314,13 @@
 @@||bnbstatic.com^
 @@||bnappzh.net^
 
+# 以下是百度
+@@||fanyi-app.baidu.com^$important
+@@||fanyi.baidu.com^$important
+
 # 以下是其他服务，无法归类
 @@||sec.sginput.qq.com^$important
-@@||video.qq.com^$important
 @@||github.githubassets.com^$important
-@@||fanyi.baidu.com^$important
 @@||n-devs-ssmb.tplinkcloud.com.cn^$important
 @@||resource.flomoapp.com^$important
 @@||v.flomoapp.com^$important
