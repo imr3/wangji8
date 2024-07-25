@@ -579,7 +579,10 @@
 @@||adx.v.mitvos.com^$important
 @@||api.letv.com^$important
 @@||file.xmpush.xiaomi.com^$important
-
+@@||package.box.xiaomi.com^$important
+@@||package.cdn.box.xiaomi.com^$important
+@@||preimage1.inter.ptqy.gitv.tv^$important
+@@||ipv6.govt.hu^$important
 
 !腾讯系
 @@cdn.*.qq.com
