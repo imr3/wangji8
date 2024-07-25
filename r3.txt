@@ -279,13 +279,14 @@
 # 以下是加密相关
 @@||www.mytoken.news^$important
 
-# 以下是其他，无法归类
+# 以下是其他服务，无法归类
 @@||sec.sginput.qq.com^$important
 @@||video.qq.com^$important
 @@||github.githubassets.com^$important
 @@||fanyi.baidu.com^$important
+@@||n-devs-ssmb.tplinkcloud.com.cn^$important
 
-# 以下是抄作业
+# 抄作业：
 # 以下是中国的CDN
 # 蓝汛
 @@||gslbsvc.net.cn^
