@@ -12,3 +12,14 @@
 @@||api-iam.intercom.io^$important
 @@||github.githubassets.com^$important
 @@||amdc-v6.alipaydns.com^$important
+# 以下是小红书
+@@||lng.xiaohongshu.com^$important
+@@||pages.xiaohongshu.com^$important
+@@||search.xiaohongshu.com^$important
+@@||mall.xiaohongshu.com^$important
+@@||edith.xiaohongshu.com^$important
+@@||live-mall.xiaohongshu.com^$important
+@@||live-feed.xiaohongshu.com^$important
+@@||gslb.xiaohongshu.com^$important
+@@||live-go.xiaohongshu.com^$important
+@@||t2-hb.xiaohongshu.com^$important
