@@ -1,17 +1,3 @@
-@@||gtimg.com^$important
-@@||mirrors.aliyun.com^$important
-@@||myhuaweicloud.com^$important
-@@||sec.sginput.qq.com^$important
-@@||video.qq.com^$important
-@@||imgcache.qq.com^$important
-@@||qimg.xiaohongshu.com^$important
-@@||gimg3.baidu.com^$important
-@@||sinaimg.cn^$important
-@@||api.saasexch.io^$important
-@@||www.mytoken.news^$important
-@@||api-iam.intercom.io^$important
-@@||github.githubassets.com^$important
-@@||amdc-v6.alipaydns.com^$important
 # 以下是小红书
 @@||lng.xiaohongshu.com^$important
 @@||pages.xiaohongshu.com^$important
@@ -24,3 +10,31 @@
 @@||live-go.xiaohongshu.com^$important
 @@||t2-hb.xiaohongshu.com^$important
 @@||apm-native.xiaohongshu.com^$important
+@@||qimg.xiaohongshu.com^$important
+
+# 以下是CDN
+@@||mirrors.aliyun.com^$important
+@@||amdc-v6.alipaydns.com^$important
+
+# 以下是API
+@@||api-iam.intercom.io^$important
+@@||api.saasexch.io^$important
+
+# 以下是华为
+@@||myhuaweicloud.com^$important
+# 以下是苹果
+
+# 以下是IMG
+@@||sinaimg.cn^$important
+@@||imgcache.qq.com^$important
+@@||gimg3.baidu.com^$important
+@@||gtimg.com^$important
+
+# 以下是加密相关
+@@||www.mytoken.news^$important
+
+# 以下是其他，无法归类
+@@||sec.sginput.qq.com^$important
+@@||video.qq.com^$important
+@@||github.githubassets.com^$important
+@@||fanyi.baidu.com^$important
