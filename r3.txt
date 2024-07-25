@@ -167,6 +167,7 @@
 @@||tracker.theoks.net^$important
 @@||tracker.openbittorrent.com^$important
 @@||api-edge.cognitive.microsofttranslator.com^$important
+
 # 以下是小红书
 @@||lng.xiaohongshu.com^$important
 @@||pages.xiaohongshu.com^$important
@@ -180,6 +181,7 @@
 @@||t2-hb.xiaohongshu.com^$important
 @@||apm-native.xiaohongshu.com^$important
 @@||qimg.xiaohongshu.com^$important
+@@||spider-tracker.xiaohongshu.com^$important
 
 # 以下是CDN
 @@||mirrors.aliyun.com^$important
@@ -189,12 +191,6 @@
 @@||dns.weixin.qq.com.cn^
 @@||statusapi.micloud.xiaomi.net^
 @@||broker.mina.mi.com^
-@@||binance.cloud^
-@@||app.3commas.io^
-@@||binance.com^
-@@||bnappzh.mobi^
-@@||binance.me^
-@@||bntrace.com^
 @@||micloud.xiaomi.net^
 @@||binancezh.top^
 @@||web.telegram.org^
@@ -234,11 +230,7 @@
 @@||cdn.ynuf.aliapp.org^
 @@||cdn.segment.com^
 @@||cdn.taboola.com^
-@@||bnbzh.pro^
-@@||bnbstatic.com^
 @@||weread.qq.com^
-@@||binance.im^
-@@||bnappzh.net^
 @@||aws-s3.coinglasscdn.com^
 @@||coinglasscdn.com^
 @@||sensors.cloud.tencent.com^
@@ -269,6 +261,8 @@
 
 # 以下是华为
 @@||myhuaweicloud.com^$important
+@@||sns-img-hw.xhscdn.com^$important
+
 # 以下是苹果
 
 # 以下是IMG
@@ -279,6 +273,16 @@
 
 # 以下是加密相关
 @@||www.mytoken.news^$important
+@@||binance.im^$important
+@@||binance.cloud^
+@@||app.3commas.io^
+@@||binance.com^
+@@||bnappzh.mobi^
+@@||binance.me^
+@@||bntrace.com^
+@@||bnbzh.pro^
+@@||bnbstatic.com^
+@@||bnappzh.net^
 
 # 以下是其他服务，无法归类
 @@||sec.sginput.qq.com^$important
@@ -552,3 +556,18 @@
 @@||f*.market.xiaomi.com^$important
 @@||f*.market.mi-img.com^$important
 @@||market.mi-img.com^$important
+
+!腾讯系
+@@cdn.*.qq.com
+@@*.myapp.com
+
+!短链接
+@@goo.gl
+@@bit.ly
+@@sh.st
+@@t.cn
+@@url.cn
+@@||suo.im^$important
+@@||t.cn^$important
+@@||t.co^$important
+@@||t.me^$important
