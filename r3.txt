@@ -184,6 +184,7 @@
 @@||spider-tracker.xiaohongshu.com^$important
 
 # 以下是CDN
+@@||sns-img-hw.xhscdn.com.ctzcdn.cn^$important
 @@||mirrors.aliyun.com^$important
 @@||amdc-v6.alipaydns.com^$important
 @@||sns-img-hw.xhscdn.com^$important
@@ -265,6 +266,9 @@
 
 # 以下是苹果
 
+# 以下是腾讯
+@@||res2.wx.qq.com^$important
+
 # 以下是IMG
 @@||sinaimg.cn^$important
 @@||imgcache.qq.com^$important
@@ -290,6 +294,8 @@
 @@||github.githubassets.com^$important
 @@||fanyi.baidu.com^$important
 @@||n-devs-ssmb.tplinkcloud.com.cn^$important
+@@||resource.flomoapp.com^$important
+@@||v.flomoapp.com^$important
 
 # 抄作业：
 # 以下是中国的CDN
@@ -534,15 +540,15 @@
 @@||mobile.controller.duokanbox.com^$important
 @@||o2o.api.xiaomi.com^$important
 @@||tvepg.pandora.xiaomi.com^$important
-#小米视频
+# 小米视频
 @@||*.video.xiaomi.com^$important
 @@||mivideo.cdn.pandora.xiaomi.com^$important
 @@||v*-dc-ad.ixigua.com^$important
-#锁屏画报正常化
+# 锁屏画报正常化
 @@||wallpaper.cdn.pandora.xiaomi.com^$important
 @@||package.wallpaper.cdn.pandora.xiaomi.com.lan^$important
 @@||w.pandora.xiaomi.com^$important
-#应用商店
+# 应用商店
 @@||sec-cdn.static.xiaomi.net^$important
 @@||fgc0.market.xiaomi.com^$important
 @@||fga0.market.xiaomi.com^$important
@@ -552,10 +558,28 @@
 @@verify.sec.xiaomi.com
 @@||*.market.xiaomi.com^$important
 @@||*.market.mi-img.com^$important
-#主题商店
+# 主题商店
 @@||f*.market.xiaomi.com^$important
 @@||f*.market.mi-img.com^$important
 @@||market.mi-img.com^$important
+# 以下是小米电视、小米盒子开机后手动添加
+@@||api.hdtv.letv.com^$important
+@@||ipv6.govt.hu^$important
+@@||topic-o.api.leiniao.com^$important
+@@||ip.ptqy.gitv.tv^$important
+@@||data.video.ptqy.gitv.tv^$important
+@@||stv.ptqy.gitv.tv^$important
+@@||puma-api.ptqy.gitv.tv^$important
+@@||api.afdback.ptqy.gitv.tv^$important
+@@||sdk.ptqy.gitv.tv^$important
+@@||bi.ptqy.gitv.tv^$important
+@@||time.video.ptqy.gitv.tv^$important
+@@||doh.ptqy.gitv.tv^$important
+@@||static.ptqy.gitv.tv^$important
+@@||adx.v.mitvos.com^$important
+@@||api.letv.com^$important
+@@||file.xmpush.xiaomi.com^$important
+
 
 !腾讯系
 @@cdn.*.qq.com
