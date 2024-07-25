@@ -7,3 +7,8 @@
 @@||qimg.xiaohongshu.com^$important
 @@||gimg3.baidu.com^$important
 @@||sinaimg.cn^$important
+@@||api.saasexch.io^$important
+@@||www.mytoken.news^$important
+@@||api-iam.intercom.io^$important
+@@||github.githubassets.com^$important
+@@||amdc-v6.alipaydns.com^$important
