@@ -1,3 +1,8 @@
+@@||interface.bilibili.com^$important
+@@||broadcast.chat.bilibili.com^$important
+@@||package.cdn.box.xiaomi.com^$important
+@@||preimage1.inter.ptqy.gitv.tv^$important
+@@||api.map.baidu.com^$important
 @@||wximg.wxs.qq.com^$important
 @@||duolingo.cn^$important
 @@||weread.qq.com^$important
@@ -182,6 +187,8 @@
 @@||apm-native.xiaohongshu.com^$important
 @@||qimg.xiaohongshu.com^$important
 @@||spider-tracker.xiaohongshu.com^$important
+@@||t3.xiaohongshu.com^$important
+@@||fe.xiaohongshu.com^$important
 
 # 以下是CDN
 @@||sns-img-hw.xhscdn.com.ctzcdn.cn^$important
@@ -268,6 +275,7 @@
 
 # 以下是腾讯
 @@||res2.wx.qq.com^$important
+@@||snsvideo.c2c.wechat.com^$important
 
 # 以下是IMG
 @@||sinaimg.cn^$important
