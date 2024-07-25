@@ -15,6 +15,83 @@
 # 以下是CDN
 @@||mirrors.aliyun.com^$important
 @@||amdc-v6.alipaydns.com^$important
+# 根据记录放行的个人记录，有经常用到的CDN加速节点
+@@||dns.weixin.qq.com.cn^
+@@||statusapi.micloud.xiaomi.net^
+@@||broker.mina.mi.com^
+@@||binance.cloud^
+@@||app.3commas.io^
+@@||binance.com^
+@@||bnappzh.mobi^
+@@||binance.me^
+@@||bntrace.com^
+@@||micloud.xiaomi.net^
+@@||binancezh.top^
+@@||web.telegram.org^
+@@||nintendo.net^
+@@||dns.weixin.qq.com.cn^
+@@||dns.qq.com^
+@@||alicdn.com^
+@@||kooldns.cn^
+@@||aliyuncs.com^
+@@||cdn.bcebos.com^
+@@||inter.iqiyi.com^
+@@||video.iqiyi.com^
+@@||xmcdn.com^
+@@||cdn.exp.xiaomi.com^
+@@||scs-hcdn.iqiyi.com^
+@@||cdn-mum.alibabachengdun.com^
+@@||xmcdn.com^
+@@||trellocdn.com^
+@@||cdn.digitaloceanspaces.com^
+@@||intercomcdn.com^
+@@||cdnhwc2.com^
+@@||qqmail.com^
+@@||cdn.cnbj0.fds.api.mi-img.com^
+@@||cache.wpscdn.cn^
+@@||cdn.mytoken.org^
+@@||cdn.xjietiao.com^
+@@||cdn.open.idaddy.cn^
+@@||cdn.youke.co^
+@@||cdn.sspai.com^
+@@||cdn.youke.co^
+@@||cdn.experiment.xiaomi.com^
+@@||cdn.cnbj1.fds.api.mi-img.com^
+@@||cdn.ptmi.gitv.tv^
+@@||xycdn.com^
+@@||cdn.pandora.xiaomi.com^
+@@||cdn.dcloud.net.cn^
+@@||cdn.ynuf.aliapp.org^
+@@||cdn.segment.com^
+@@||cdn.taboola.com^
+@@||bnbzh.pro^
+@@||bnbstatic.com^
+@@||weread.qq.com^
+@@||binance.im^
+@@||bnappzh.net^
+@@||aws-s3.coinglasscdn.com^
+@@||coinglasscdn.com^
+@@||sensors.cloud.tencent.com^
+@@||ping.cloud.tencent.com^
+@@||tracker.ai.xiaomi.com^$important
+@@||www.taidii.cn^$important
+@@||cdn.cookielaw.org^$important
+@@||mpcdn.weixin.qq.com^$important
+@@||mpcdn.qpic.cn^$important
+@@||wxlivecdn.com^$important
+@@||cdn.3commas.io^$important
+@@||itunessaing.qtlcdn.com^$important
+@@||ksyuncdn.com^$important
+@@||qtlcdn.com^$important
+@@||dbankcdn.com^$important
+@@||cdn-go.cn^$important
+@@||cdnfile.sspai.com^$important
+@@||data.bilicdn2.com^$important
+@@||mcdn.bilivideo.cn^$important
+@@||biliapi.net^$important
+@@||wxqcloud.qq.com.cn^$important
+@@||hicloud.com^$important
+@@||xhscdn.com^$important
 
 # 以下是API
 @@||api-iam.intercom.io^$important
@@ -38,3 +115,197 @@
 @@||video.qq.com^$important
 @@||github.githubassets.com^$important
 @@||fanyi.baidu.com^$important
+
+# 以下是抄作业
+# 以下是中国的CDN
+# 蓝汛
+@@||gslbsvc.net.cn^
+@@||chinacache.com.cn^
+@@||ccgslb.net^
+@@||gslbsvc.com.cn^
+@@||cdnsvc.cn^
+@@||ccgslb.cn^
+@@||cdn2cdn.net^
+@@||blueit.org.cn^
+@@||cc-1.com^
+@@||cdnsvc.net^
+@@||ccgslb.com.cn^
+@@||lxsvc.net^
+@@||lxsvc.cn ^
+@@||chinacache.org^
+@@||gslbsvc.com^
+@@||ccgslb.com^
+@@||gslbsvc.cn^
+@@||chinacache.com^
+@@||igslb.net^
+@@||chinacache.net^
+@@||cdnsvc.net.cn^
+@@||ccgslb.net.cn^
+@@||hd-cdn.com^
+@@||cdnsvc.com.cn^
+@@||cdnsvc.com^
+@@||speedupchina.net^
+@@||b2r.com.cn^
+@@||blueit.com^
+@@||lxsvc.cn^
+@@||gslbsvc.net^
+@@||speedupchina.com^
+@@||cc-cps.com^
+@@||cc-cps.com.cn^
+@@||cc-cps.net^
+@@||cc-cps.mobi^
+@@||cc-cps.cn^
+@@||ccbench.com^
+@@||webluker.com^
+@@||ccindex.cn^
+@@||ccindex.com.cn^
+@@||ccmplus.com.cn^
+@@||ccmplus.net^
+@@||ccmplus.cn^
+# Webluker
+@@||xgslb.net^
+# 网宿
+@@||wscdns.com^
+@@||ourglb0.com^
+@@||wsngb.com^
+@@||lxdns.com^
+@@||lxdns.net^
+@@||51cdn.com^
+@@||chinanetcenter.com^
+@@||netcenter.com.cn^
+@@||wangsu.com^
+@@||ourwebat.com^
+@@||ourwebcdn.com^
+# 快网
+@@||fastweb.com.cn^
+@@||fwdns.net^
+@@||hadns.net^
+@@||cachecn.net^
+@@||sz-dns.net^
+@@||cachecn.com^
+@@||cloudcdn.cn^
+@@||1test.cn^
+@@||5test.cn^
+@@||fsspace.com^
+@@||fsspace.com.cn^
+@@||fsspace.cn^
+@@||cloudcdn.net^
+@@||fastwebcdn.com^
+@@||hacdn.com^
+@@||fwcdn.com^
+@@||fwcdn.net^
+@@||hacdn.net^
+@@||cloudglb.com^
+@@||cloudxns.net^
+@@||cloudglb.net^
+@@||cloudxns.com^
+@@||cloudtcp.net^
+@@||myxns.cn^
+@@||newdefend.cn^
+@@||myxns.net.cn^
+@@||myxns.com.cn^
+@@||myxns.org^
+@@||newdefend.net^
+@@||newdefend.org^
+@@||newdefend.net.cn^
+@@||newdefend.com.cn^
+@@||newdefend.org.cn^
+@@||newdefend.com^
+@@||ffdns.net^
+@@||fwmob.com^
+@@||tlgslb.com ^
+@@||fastcdn.com ^
+# 阿里云CDN
+@@||kunlunea.com^
+@@||kunlunso.com^
+@@||kunlunwe.com^
+@@||kunlunno.com^
+@@||kunlunaq.com^
+@@||kunlunpi.com^
+@@||kunlunra.com^
+@@||kunlungr.com^
+@@||kunlunhuf.com^
+@@||kunlunsl.com^
+@@||kunlunar.com^
+@@||kunlunta.com^
+@@||kunlungem.com^
+@@||kunluncan.com^
+@@||kunlunle.com^
+@@||kunlunvi.com^
+@@||kunlunli.com^
+@@||kunlunsc.com^
+@@||kunlunsa.com^
+@@||kunlunca.com^
+@@||alikunlun.net^
+@@||alikunlun.com^
+# 腾讯CDN
+@@||qcloud.com^
+@@||myqcloud.com^
+@@||tcdn.qq.com^
+@@||cdntip.com^
+@@||tencent-cloud.net^
+# 百度云CDN
+@@||bdydns.net^
+@@||bcedns.net^
+@@||bcedns.com^
+@@||bcedns.cn^
+@@||bdydns.com^
+@@||baiduyundns.net^
+@@||bdydns.cn^
+@@||baiduyundns.com^
+@@||baiduyundns.cn^
+# 百度云加速
+@@||yunjiasu-cdn.net^
+# 七牛
+@@||qiniudn.com^
+@@||qbox.me^
+@@||clouddn.com^
+@@||qiniudns.com^
+# 又拍云
+@@||aicdn.com^
+# 360网站卫士
+@@||dnspao.com^
+@@||360wzb.cn^
+# 同兴万点CDN
+@@||cdngc.net^
+@@||cdnetworks.net^
+@@||gccdn.net^
+# CDN联盟
+@@||cdnudns.com^
+# 白山云 
+@@||qingcdn.com^
+# 未知
+@@||hdslb.com^
+@@||hdslb.net^
+!   以下是屏蔽快手
+127.0.0.1 api.gifshow.com
+127.0.0.1 jsmov2.a.yximgs.com
+127.0.0.1 txmov2.a.yximgs.com
+127.0.0.1 alimov2.a.yximgs.com
+127.0.0.1 apissl.gifshow.com
+127.0.0.1 api.gifshow.com
+127.0.0.1 js2.a.yximgs.com
+127.0.0.1 tx2.a.yximgs.com
+127.0.0.1 bd.a.yximgs.com
+127.0.0.1 ali2.a.yximgs.com
+127.0.0.1 aliimg.a.yximgs.com
+127.0.0.1 qn.a.yximgs.com
+127.0.0.1 ipdispatch.live.xycdn.com
+127.0.0.1 ipdispatch.live.xycdn.com
+127.0.0.1 sdk.open.phone.igexin.com
+127.0.0.1 upload.gifshow.com
+127.0.0.1 api.ksapisrv.com
+127.0.0.1 sf2018-api.gifshow.com
+127.0.0.1 c-hzgt2.getui.com
+127.0.0.1 umc.danuoyi.alicdn.com
+127.0.0.1 sdk.conf.igexin.com
+127.0.0.1 qnmov.a.yximgs.com
+127.0.0.1 upload.ksapisrv.com
+127.0.0.1 sdkoptedge.chinanetcenter.com
+127.0.0.1 c-hzgt2.getui.com
+127.0.0.1 upload.ksapisrv.com
+127.0.0.1 static.yximgs.com
+127.0.0.1 apissl.ksapisrv.com
+127.0.0.1 ntp.nc.gifshow.com
+127.0.0.1 bd-livemate.pull.yximgs.com
+127.0.0.1 bd.pull.yximgs.com
