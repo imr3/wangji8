@@ -1,7 +1,9 @@
 @@||gtimg.com^$important
-@@||——^$important
-@@||——^$important
-@@||——^$important
-@@||——^$important
-@@||——^$important
-@@||——^$important
+@@||mirrors.aliyun.com^$important
+@@||myhuaweicloud.com^$important
+@@||sec.sginput.qq.com^$important
+@@||video.qq.com^$important
+@@||imgcache.qq.com^$important
+@@||qimg.xiaohongshu.com^$important
+@@||gimg3.baidu.com^$important
+@@||sinaimg.cn^$important
