@@ -481,6 +481,7 @@
 127.0.0.1 bd.pull.yximgs.com
 
 ! 抄作业之小米系
+@@a.huodong.mi.cn
 @@m.video.xiaomi.com
 @@||api.account.xiaomi.com^$important
 @@||api.comm.miui.com^$important
