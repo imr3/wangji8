@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+**这是我的第一个正式文件**
 
-You can use the [editor on GitHub](https://github.com/imr3/wangji8/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+在这里我准备建立一个 AdGuard Home 的私人白名单。
+不定期更新，只根据个人使用互联网的特点而建立的。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/imr3/wangji8/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**思考**
+- 我认为 DNS 除了黑名单就是白名单。使用订阅第三方的黑名单，那是俗语共性的地方，而个性的使用特点这通过白名单来实现加速。
