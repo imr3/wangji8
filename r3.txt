@@ -184,6 +184,7 @@
 # 以下是CDN
 @@||mirrors.aliyun.com^$important
 @@||amdc-v6.alipaydns.com^$important
+@@||sns-img-hw.xhscdn.com^$important
 # 根据记录放行的个人记录，有经常用到的CDN加速节点
 @@||dns.weixin.qq.com.cn^
 @@||statusapi.micloud.xiaomi.net^
