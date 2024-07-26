@@ -1,3 +1,4 @@
+@@||alibabadns.com^$important
 @@||interface.bilibili.com^$important
 @@||broadcast.chat.bilibili.com^$important
 @@||package.cdn.box.xiaomi.com^$important
@@ -196,6 +197,7 @@
 @@||img.meituan.net^$important
 @@||msp.meituan.com^$important
 @@||plx.meituan.com^$important
+@@||meituan.com^$important
 
 # 以下是BT节点
 @@||mimc.chat.xiaomi.net^$important
@@ -205,6 +207,7 @@
 @@||tracker.filemail.com^$important
 @@||public.tracker.vraphim.com^$important
 @@||torrent-team.net^$important
+@@||fxtt.ru^$important
 
 # 以下是CDN
 @@||sns-img-hw.xhscdn.com.ctzcdn.cn^$important
@@ -318,12 +321,14 @@
 @@||fanyi-app.baidu.com^$important
 @@||fanyi.baidu.com^$important
 
+
 # 以下是其他服务，无法归类
 @@||sec.sginput.qq.com^$important
 @@||github.githubassets.com^$important
 @@||n-devs-ssmb.tplinkcloud.com.cn^$important
 @@||resource.flomoapp.com^$important
 @@||v.flomoapp.com^$important
+@@||flomoapp.com^$important
 
 # 抄作业：
 # 以下是中国的CDN
