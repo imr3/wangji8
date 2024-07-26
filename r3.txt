@@ -711,7 +711,7 @@
 @@||f*.market.mi-img.com^$important
 @@||market.mi-img.com^$important
 
-# 补充
+# 20240726补充
 @@||t2-json.xiaohongshu.com^$important
 @@||www.tencent.com^$important
 @@||cm.bilibili.com^$important
