@@ -382,14 +382,12 @@
 @@||mirrors.aliyun.com^$important
 @@||amdc-v6.alipaydns.com^$important
 @@||sns-img-hw.xhscdn.com^$important
-@@||dns.weixin.qq.com.cn^
 @@||statusapi.micloud.xiaomi.net^
 @@||broker.mina.mi.com^
 @@||micloud.xiaomi.net^
 @@||binancezh.top^
 @@||web.telegram.org^
 @@||nintendo.net^
-@@||dns.weixin.qq.com.cn^
 @@||dns.qq.com^
 @@||alicdn.com^
 @@||kooldns.cn^
