@@ -1,601 +1,33 @@
-@@||alibabadns.com^$important
-@@||interface.bilibili.com^$important
-@@||broadcast.chat.bilibili.com^$important
+# API
+@@||api-iam.intercom.io^$important
+@@||api.saasexch.io^$important
+
+# 谷歌
+@@||google.com^$important
+
+# 小米
 @@||package.cdn.box.xiaomi.com^$important
 @@||preimage1.inter.ptqy.gitv.tv^$important
-@@||api.map.baidu.com^$important
-@@||wximg.wxs.qq.com^$important
-@@||duolingo.cn^$important
-@@||weread.qq.com^$important
-@@||mp.weixin.qq.com^$important
-@@||ci.xiaohongshu.com^$important
-@@||as.xiaohongshu.com^$important
-@@||flash.xiaohongshu.com^$important
 @@||cloudcontrol.ai.xiaomi.com^$important
-@@||www.xiaohongshu.com^$important
-@@||api.mytokenapi.com^$important
-@@||alipay.com^$important
-@@||tplinkcloud.com.cn^$important
-@@||icloud.com.cn^$important
-@@||apple-dns.cn^$important
-@@||api.miwifi.com^$important
-@@||api2.mina.mi.com^$important
-@@||api.xiaomi.com^$important
-@@||api.music.xiaomi.com^$important
-@@||api.smoot.apple.cn^$important
-@@||cloud.huawei.com^$important
-@@||api.io.mi.com^$important
-@@||api.mijia.tech^$important
-@@||dbankcloud.cn^$important
-@@||api.bilibili.com^$important
-@@||api.saasexch.co^$important
-@@||api.pocketuniverse.app^$important
-@@||app.biliapi.com^$important
-@@||api.mytokenapi.com^$important
-@@||api.weathercn.com^$important
-@@||capi.coinglass.com^$important
-@@||taobao.com^$important
-@@||auth.api.gitv.tv^$important
-@@||api.account.xiaomi.com^$important
-@@||weatherapi.market.xiaomi.com^$important
-@@||api.x.com^$important
-@@||api.cloud.huawei.com^$important
-@@||3commas.io^$important
-@@||jd.com^$important
-@@||mijia.tech^$important
-@@||okjike.com^$important
-@@||jianguoyun.com^$important
-@@||sspai.com^$important
-@@||cdngslb.com^$important
-@@||okx.com^$important
-@@||gate.io^$important
 @@||youpin.mi.com^$important
 @@||youpin.mi-img.com^$important
 @@||shop.io.mi-img.com^$important
 @@||mifile.cn^$important
 @@||mi.com^$important
 @@||miui.com^$important
-@@||wp.mail.qq.com^$important
-@@||zhimg.com^$important
+@@||api.io.mi.com^$important
+@@||api.mijia.tech^$important
+@@||api.miwifi.com^$important
+@@||api2.mina.mi.com^$important
+@@||api.xiaomi.com^$important
+@@||api.music.xiaomi.com^$important
+@@||auth.api.gitv.tv^$important
+@@||api.account.xiaomi.com^$important
+@@||mijia.tech^$important
 @@||ai.xiaomi.com^$important
-@@||zhihu.com^$important
-@@||minecraft.cn^$important
-@@||pupuapi.com^$important
-@@||hiecheimaetu.com^$important
-@@||qcloudcdn.com^$important
-@@||vv.video.qq.com^$important
-@@||wxqcloud.qq.com^$important
-@@||cdn.beekka.com^$important
-@@||duolingo.com^$important
-@@||t2.xiaohongshu.com^$important
-@@||dbankcdn.cn^$important
-@@||dbankcloud.com^$important
-@@||lastpass.com^$important
-@@||weixin.qq.com^$important
-@@||wetype.weixin.qq.com^$important
-@@||guanjia.qq.com^$important
-@@||mask.apple-dns.net^$important
-@@||netease.com^$important
-@@||wx.tenpay.com^$important
-@@||res.wx.qq.com^$important
-@@||dns.update.netease.com^$important
-@@||cube.weixinbridge.com^$important
-@@||tutu.pm^$important
-@@||map.qq.com^$important
-@@||apple-dns.net^$important
-@@||sdk-api.heycan.com^$important
-@@||linkease.com^$important
-@@||bytecdn.com^$important
-@@||bytecdn.com^$important
-@@||autonavi.com^$important
-@@||tdum.alibaba.com^$important
-@@||amap.com^$important
-@@||alibabachengdun.com^$important
-@@||jomodns.com^$important
-@@||xhscdn.net^$important
-@@||sns-video-hw.xhscdn.net^$important
-@@||api.vc.bilibili.com^$important
-@@||api.live.bilibili.com^$important
-@@||passport.bilibili.com^$important
-@@||message.bilibili.com^$important
-@@||cdnmg.com^$important
-@@||desync.com^$important
-@@||archive.biliimg.com^$important
-@@||bilivideo.com^$important
-@@||bvc.bilivideo.com^$important
-@@||keplr.app^$important
-@@||a.w.bilicdn1.com^$important
-@@||gaoneng.bilibili.com^$important
-@@||www.bilibili.com^$important
-@@||www.baidu.com^$important
-@@||www.qq.com^$important
-@@||google.com^$important
-@@||releases.obsidian.md^$important
-@@||wxpay.qpic.cn^$important
-@@||oss.mail.qq.com^$important
-@@||pupumall.com^$important
-@@||ap-shanghai.cls.tencentcs.com^$important
-@@||your.provider.net^$important
-@@||yourhost.example.com^$important、
-@@||dcloud.net.cn^$important
-@@||saasexch.cc^$important
-@@||cloudflare.com^$important
-@@||mkey.163.com^$important
-@@||webapp.163.com^$important
-@@||album.biliimg.com^$important
-@@||c.nstool.ntes53.netease.com^$important
-@@||mokexapp.net^$important
-@@||binance.click^$important
-@@||binance.info^$important
-@@||app-analytics-services.com^$important
-@@||www.mokexapp.me^$important
-@@||wx.music.tc.qq.com^$important
-@@||api.sslauth.sonos.com^$important
-@@||sonos.com^$important
-@@||36krcdn.com^$important
-@@||36kr.com^$important
-@@||36dianping.com^$important
-@@||cdn.iappdaily.com^$important
-@@||cdn.uopes.cn^$important
-@@||weathercn.com^$important
-@@||cloud.huawei.com.cn^$important
-@@||vweixinthumb.tc.qq.com^$important
-@@||www.dapenti.com^$important
-@@||www.coinglass.com^$important
-@@||music.163.com^$important
-@@||music.126.net^$important
 @@||account.xiaomi.com^$important
 @@||ptmi.gitv.tv^$important
 @@||pandora.xiaomi.com^$important
-@@||phicdn.net^$important
-@@||akamaiedge.net^$important
-@@||netease.sonoschina.com^$important
-@@||setup.ws.sonos.com^$important
-@@||feature-config.sslauth.sonos.com^$important
-@@||cloudapp.azure.com^$important
-@@||phicdn.net^$important
-@@||ksyunv5.com^$important
-@@||ruguoapp.com^$important
-@@||api-ms-log.huxiu.com^$important
-@@||www-api.huxiu.com^$important
-@@||comment-api.huxiu.com^$important
-@@||api.unipay.qq.com^$important
-@@||api.weibo.com^$important
-@@||api.jdapi.com^$important
-@@||api.36dianping.com^$important
-@@||pcw-api.iqiyi.com^$important
-@@||le3-api.game.bilibili.com^$important
-@@||api.geetest.com^$important
-@@||zeus-api.vemarsdev.com^$important
-@@||api.meishesdk.com^$important
-@@||www.douban.com^$important
-@@||open.demonii.com^$important
-@@||tracker.theoks.net^$important
-@@||tracker.openbittorrent.com^$important
-@@||api-edge.cognitive.microsofttranslator.com^$important
-
-# 以下是小红书
-@@||lng.xiaohongshu.com^$important
-@@||pages.xiaohongshu.com^$important
-@@||search.xiaohongshu.com^$important
-@@||mall.xiaohongshu.com^$important
-@@||edith.xiaohongshu.com^$important
-@@||live-mall.xiaohongshu.com^$important
-@@||live-feed.xiaohongshu.com^$important
-@@||gslb.xiaohongshu.com^$important
-@@||live-go.xiaohongshu.com^$important
-@@||t2-hb.xiaohongshu.com^$important
-@@||apm-native.xiaohongshu.com^$important
-@@||qimg.xiaohongshu.com^$important
-@@||spider-tracker.xiaohongshu.com^$important
-@@||t3.xiaohongshu.com^$important
-@@||fe.xiaohongshu.com^$important
-@@||trade.m.xiaomiyoupin.com^$important
-@@||m.xiaomiyoupin.com^$important
-
-# 以下是美团
-@@||img.meituan.net^$important
-@@||msp.meituan.com^$important
-@@||plx.meituan.com^$important
-@@||meituan.com^$important
-
-# 以下是BT节点
-@@||mimc.chat.xiaomi.net^$important
-@@||ros-upload.xiaohongshu.com^$important
-@@||picasso-static.xiaohongshu.com^$important
-@@||tracker2.dler.org^$important
-@@||tracker.filemail.com^$important
-@@||public.tracker.vraphim.com^$important
-@@||torrent-team.net^$important
-@@||fxtt.ru^$important
-
-# 以下是CDN
-@@||sns-img-hw.xhscdn.com.ctzcdn.cn^$important
-@@||mirrors.aliyun.com^$important
-@@||amdc-v6.alipaydns.com^$important
-@@||sns-img-hw.xhscdn.com^$important
-# 根据记录放行的个人记录，有经常用到的CDN加速节点
-@@||dns.weixin.qq.com.cn^
-@@||statusapi.micloud.xiaomi.net^
-@@||broker.mina.mi.com^
-@@||micloud.xiaomi.net^
-@@||binancezh.top^
-@@||web.telegram.org^
-@@||nintendo.net^
-@@||dns.weixin.qq.com.cn^
-@@||dns.qq.com^
-@@||alicdn.com^
-@@||kooldns.cn^
-@@||aliyuncs.com^
-@@||cdn.bcebos.com^
-@@||inter.iqiyi.com^
-@@||video.iqiyi.com^
-@@||xmcdn.com^
-@@||cdn.exp.xiaomi.com^
-@@||scs-hcdn.iqiyi.com^
-@@||cdn-mum.alibabachengdun.com^
-@@||xmcdn.com^
-@@||trellocdn.com^
-@@||cdn.digitaloceanspaces.com^
-@@||intercomcdn.com^
-@@||cdnhwc2.com^
-@@||qqmail.com^
-@@||cdn.cnbj0.fds.api.mi-img.com^
-@@||cache.wpscdn.cn^
-@@||cdn.mytoken.org^
-@@||cdn.xjietiao.com^
-@@||cdn.open.idaddy.cn^
-@@||cdn.youke.co^
-@@||cdn.sspai.com^
-@@||cdn.youke.co^
-@@||cdn.experiment.xiaomi.com^
-@@||cdn.cnbj1.fds.api.mi-img.com^
-@@||cdn.ptmi.gitv.tv^
-@@||xycdn.com^
-@@||cdn.pandora.xiaomi.com^
-@@||cdn.dcloud.net.cn^
-@@||cdn.ynuf.aliapp.org^
-@@||cdn.segment.com^
-@@||cdn.taboola.com^
-@@||weread.qq.com^
-@@||aws-s3.coinglasscdn.com^
-@@||coinglasscdn.com^
-@@||sensors.cloud.tencent.com^
-@@||ping.cloud.tencent.com^
-@@||tracker.ai.xiaomi.com^$important
-@@||www.taidii.cn^$important
-@@||cdn.cookielaw.org^$important
-@@||mpcdn.weixin.qq.com^$important
-@@||mpcdn.qpic.cn^$important
-@@||wxlivecdn.com^$important
-@@||cdn.3commas.io^$important
-@@||itunessaing.qtlcdn.com^$important
-@@||ksyuncdn.com^$important
-@@||qtlcdn.com^$important
-@@||dbankcdn.com^$important
-@@||cdn-go.cn^$important
-@@||cdnfile.sspai.com^$important
-@@||data.bilicdn2.com^$important
-@@||mcdn.bilivideo.cn^$important
-@@||biliapi.net^$important
-@@||wxqcloud.qq.com.cn^$important
-@@||hicloud.com^$important
-@@||xhscdn.com^$important
-
-# 以下是API
-@@||api-iam.intercom.io^$important
-@@||api.saasexch.io^$important
-
-# 以下是华为
-@@||myhuaweicloud.com^$important
-@@||sns-img-hw.xhscdn.com^$important
-
-# 以下是苹果
-
-# 以下是腾讯
-@@||res2.wx.qq.com^$important
-@@||snsvideo.c2c.wechat.com^$important
-@@||video.qq.com^$important
-
-# 以下是IMG
-@@||sinaimg.cn^$important
-@@||imgcache.qq.com^$important
-@@||gimg3.baidu.com^$important
-@@||gtimg.com^$important
-@@||3gimg.qq.com^$important
-
-# 以下是加密相关
-@@||www.mytoken.news^$important
-@@||binance.im^$important
-@@||binance.cloud^
-@@||app.3commas.io^
-@@||binance.com^
-@@||bnappzh.mobi^
-@@||binance.me^
-@@||bntrace.com^
-@@||bnbzh.pro^
-@@||bnbstatic.com^
-@@||bnappzh.net^
-
-# 以下是百度
-@@||fanyi-app.baidu.com^$important
-@@||fanyi.baidu.com^$important
-
-
-# 以下是其他服务，无法归类
-@@||sec.sginput.qq.com^$important
-@@||github.githubassets.com^$important
-@@||n-devs-ssmb.tplinkcloud.com.cn^$important
-@@||resource.flomoapp.com^$important
-@@||v.flomoapp.com^$important
-@@||flomoapp.com^$important
-
-# 抄作业：
-# 以下是中国的CDN
-# 蓝汛
-@@||gslbsvc.net.cn^
-@@||chinacache.com.cn^
-@@||ccgslb.net^
-@@||gslbsvc.com.cn^
-@@||cdnsvc.cn^
-@@||ccgslb.cn^
-@@||cdn2cdn.net^
-@@||blueit.org.cn^
-@@||cc-1.com^
-@@||cdnsvc.net^
-@@||ccgslb.com.cn^
-@@||lxsvc.net^
-@@||lxsvc.cn ^
-@@||chinacache.org^
-@@||gslbsvc.com^
-@@||ccgslb.com^
-@@||gslbsvc.cn^
-@@||chinacache.com^
-@@||igslb.net^
-@@||chinacache.net^
-@@||cdnsvc.net.cn^
-@@||ccgslb.net.cn^
-@@||hd-cdn.com^
-@@||cdnsvc.com.cn^
-@@||cdnsvc.com^
-@@||speedupchina.net^
-@@||b2r.com.cn^
-@@||blueit.com^
-@@||lxsvc.cn^
-@@||gslbsvc.net^
-@@||speedupchina.com^
-@@||cc-cps.com^
-@@||cc-cps.com.cn^
-@@||cc-cps.net^
-@@||cc-cps.mobi^
-@@||cc-cps.cn^
-@@||ccbench.com^
-@@||webluker.com^
-@@||ccindex.cn^
-@@||ccindex.com.cn^
-@@||ccmplus.com.cn^
-@@||ccmplus.net^
-@@||ccmplus.cn^
-# Webluker
-@@||xgslb.net^
-# 网宿
-@@||wscdns.com^
-@@||ourglb0.com^
-@@||wsngb.com^
-@@||lxdns.com^
-@@||lxdns.net^
-@@||51cdn.com^
-@@||chinanetcenter.com^
-@@||netcenter.com.cn^
-@@||wangsu.com^
-@@||ourwebat.com^
-@@||ourwebcdn.com^
-# 快网
-@@||fastweb.com.cn^
-@@||fwdns.net^
-@@||hadns.net^
-@@||cachecn.net^
-@@||sz-dns.net^
-@@||cachecn.com^
-@@||cloudcdn.cn^
-@@||1test.cn^
-@@||5test.cn^
-@@||fsspace.com^
-@@||fsspace.com.cn^
-@@||fsspace.cn^
-@@||cloudcdn.net^
-@@||fastwebcdn.com^
-@@||hacdn.com^
-@@||fwcdn.com^
-@@||fwcdn.net^
-@@||hacdn.net^
-@@||cloudglb.com^
-@@||cloudxns.net^
-@@||cloudglb.net^
-@@||cloudxns.com^
-@@||cloudtcp.net^
-@@||myxns.cn^
-@@||newdefend.cn^
-@@||myxns.net.cn^
-@@||myxns.com.cn^
-@@||myxns.org^
-@@||newdefend.net^
-@@||newdefend.org^
-@@||newdefend.net.cn^
-@@||newdefend.com.cn^
-@@||newdefend.org.cn^
-@@||newdefend.com^
-@@||ffdns.net^
-@@||fwmob.com^
-@@||tlgslb.com ^
-@@||fastcdn.com ^
-# 阿里云CDN
-@@||kunlunea.com^
-@@||kunlunso.com^
-@@||kunlunwe.com^
-@@||kunlunno.com^
-@@||kunlunaq.com^
-@@||kunlunpi.com^
-@@||kunlunra.com^
-@@||kunlungr.com^
-@@||kunlunhuf.com^
-@@||kunlunsl.com^
-@@||kunlunar.com^
-@@||kunlunta.com^
-@@||kunlungem.com^
-@@||kunluncan.com^
-@@||kunlunle.com^
-@@||kunlunvi.com^
-@@||kunlunli.com^
-@@||kunlunsc.com^
-@@||kunlunsa.com^
-@@||kunlunca.com^
-@@||alikunlun.net^
-@@||alikunlun.com^
-# 腾讯CDN
-@@||qcloud.com^
-@@||myqcloud.com^
-@@||tcdn.qq.com^
-@@||cdntip.com^
-@@||tencent-cloud.net^
-# 百度云CDN
-@@||bdydns.net^
-@@||bcedns.net^
-@@||bcedns.com^
-@@||bcedns.cn^
-@@||bdydns.com^
-@@||baiduyundns.net^
-@@||bdydns.cn^
-@@||baiduyundns.com^
-@@||baiduyundns.cn^
-# 百度云加速
-@@||yunjiasu-cdn.net^
-# 七牛
-@@||qiniudn.com^
-@@||qbox.me^
-@@||clouddn.com^
-@@||qiniudns.com^
-# 又拍云
-@@||aicdn.com^
-# 360网站卫士
-@@||dnspao.com^
-@@||360wzb.cn^
-# 同兴万点CDN
-@@||cdngc.net^
-@@||cdnetworks.net^
-@@||gccdn.net^
-# CDN联盟
-@@||cdnudns.com^
-# 白山云 
-@@||qingcdn.com^
-# 未知
-@@||hdslb.com^
-@@||hdslb.net^
-!   以下是屏蔽快手
-127.0.0.1 api.gifshow.com
-127.0.0.1 jsmov2.a.yximgs.com
-127.0.0.1 txmov2.a.yximgs.com
-127.0.0.1 alimov2.a.yximgs.com
-127.0.0.1 apissl.gifshow.com
-127.0.0.1 api.gifshow.com
-127.0.0.1 js2.a.yximgs.com
-127.0.0.1 tx2.a.yximgs.com
-127.0.0.1 bd.a.yximgs.com
-127.0.0.1 ali2.a.yximgs.com
-127.0.0.1 aliimg.a.yximgs.com
-127.0.0.1 qn.a.yximgs.com
-127.0.0.1 ipdispatch.live.xycdn.com
-127.0.0.1 ipdispatch.live.xycdn.com
-127.0.0.1 sdk.open.phone.igexin.com
-127.0.0.1 upload.gifshow.com
-127.0.0.1 api.ksapisrv.com
-127.0.0.1 sf2018-api.gifshow.com
-127.0.0.1 c-hzgt2.getui.com
-127.0.0.1 umc.danuoyi.alicdn.com
-127.0.0.1 sdk.conf.igexin.com
-127.0.0.1 qnmov.a.yximgs.com
-127.0.0.1 upload.ksapisrv.com
-127.0.0.1 sdkoptedge.chinanetcenter.com
-127.0.0.1 c-hzgt2.getui.com
-127.0.0.1 upload.ksapisrv.com
-127.0.0.1 static.yximgs.com
-127.0.0.1 apissl.ksapisrv.com
-127.0.0.1 ntp.nc.gifshow.com
-127.0.0.1 bd-livemate.pull.yximgs.com
-127.0.0.1 bd.pull.yximgs.com
-
-! 抄作业之小米系
-@@a.huodong.mi.cn
-@@m.video.xiaomi.com
-@@||api.account.xiaomi.com^$important
-@@||api.comm.miui.com^$important
-@@||api.device.xiaomi.net^$important
-@@||api.jr.mi.com^$important
-@@||api.micloud.xiaomi.net^$important
-@@||api.miui.security.xiaomi.com^$important
-@@||api.sec.miui.com^$important
-@@||api.video.xiaomi.com^$important
-@@||app.market.xiaomi.com^$important
-@@||appcloud.zhihu.com^$important
-@@||appmsg.gzmtr.cn^$important
-@@||at.umeng.com^$important
-@@||bigota.d.miui.com^$important
-@@||data.mistat.intl.xiaomi.com^$important
-@@||f8.market.xiaomi.com^$important
-@@||file.market.xiaomi.com^$importantcdn.ark.qq.com
-@@nileapi.market.xiaomi.com
-@@||cn.app.chat.xiaomi.net^$important
-@@||connect.rom.miui.com/generate_204^$important
-@@||m.video.xiaomi.com^$important
-@@||metok.sys.miui.com^$important
-@@||mibi.api.xiaomi.com^$important
-@@||migrate.driveapi.micloud.xiaomi.net^$important
-@@||pdc.micloud.xiaomi.net^$important
-@@||phonecallapi.micloud.xiaomi.net^$important
-@@||resolver.msg.xiaomi.net^$important
-@@||sfsapi.micloud.xiaomi.net^$important
-@@||update.miui.com^$important
-@@||ssl-cdn.static.browser.mi-img.com^$important
-@@||ts.market.mi-img.com^$important
-@@||cdn.cnbj1.fds.api.mi-img.com^$important
-@@||app-measurement.com^$important
-@@||exp.sug.browser.miui.com^$important
-@@||mi.com^$important
-@@||*.mi-img.com^$important
-@@||xzz.xiaomin.tech^$important
-@@||api.io.mi.com^$important
-@@||tracker.ai.xiaomi.com^$important
-@@||*.micloud.xiaomi.net^$important
-@@||web.vip.miui.com^$important
-@@||mi-img.com^$important
-@@||feedback.miui.com^$important
-@@||connect.rom.miui.com^$important
-@@||mobile.controller.duokanbox.com^$important
-@@||o2o.api.xiaomi.com^$important
-@@||tvepg.pandora.xiaomi.com^$important
-# 小米视频
-@@||*.video.xiaomi.com^$important
-@@||mivideo.cdn.pandora.xiaomi.com^$important
-@@||v*-dc-ad.ixigua.com^$important
-# 锁屏画报正常化
-@@||wallpaper.cdn.pandora.xiaomi.com^$important
-@@||package.wallpaper.cdn.pandora.xiaomi.com.lan^$important
-@@||w.pandora.xiaomi.com^$important
-# 应用商店
-@@||sec-cdn.static.xiaomi.net^$important
-@@||fgc0.market.xiaomi.com^$important
-@@||fga0.market.xiaomi.com^$important
-@@||t3.market.mi-img.com^$important
-@@||sec.resource.xiaomi.net^$important
-@@t1.market.xiaomi.com
-@@verify.sec.xiaomi.com
-@@||*.market.xiaomi.com^$important
-@@||*.market.mi-img.com^$important
-# 主题商店
-@@||f*.market.xiaomi.com^$important
-@@||f*.market.mi-img.com^$important
-@@||market.mi-img.com^$important
-# 以下是小米电视、小米盒子开机后手动添加
 @@||api.hdtv.letv.com^$important
 @@||ipv6.govt.hu^$important
 @@||topic-o.api.leiniao.com^$important
@@ -617,11 +49,249 @@
 @@||preimage1.inter.ptqy.gitv.tv^$important
 @@||ipv6.govt.hu^$important
 
-!腾讯系
+# 华为
+@@||myhuaweicloud.com^$important
+@@||sns-img-hw.xhscdn.com^$important
+@@||cloud.huawei.com.cn^$important
+
+# 苹果
+@@||apple-dns.cn^$important
+@@||icloud.com.cn^$important
+@@||api.smoot.apple.cn^$important
+@@||cloud.huawei.com^$important
+@@||apple-dns.net^$important
+
+
+# IMG
+@@||sinaimg.cn^$important
+@@||imgcache.qq.com^$important
+@@||gimg3.baidu.com^$important
+@@||gtimg.com^$important
+@@||3gimg.qq.com^$important
+
+# 百度
+@@||fanyi-app.baidu.com^$important
+@@||fanyi.baidu.com^$important
+@@||api.map.baidu.com^$important
+@@||www.baidu.com^$important
+
+# 腾讯系
 @@cdn.*.qq.com
 @@*.myapp.com
+@@||wximg.wxs.qq.com^$important
+@@||weread.qq.com^$important
+@@||mp.weixin.qq.com^$important
+@@||map.qq.com^$important
+@@||cube.weixinbridge.com^$important
+@@||vv.video.qq.com^$important
+@@||wxqcloud.qq.com^$important
+@@||wp.mail.qq.com^$important
+@@||wxpay.qpic.cn^$important
+@@||oss.mail.qq.com^$important
+@@||pupumall.com^$important
+@@||ap-shanghai.cls.tencentcs.com^$important
+@@||wx.tenpay.com^$important
+@@||weixin.qq.com^$important
+@@||wetype.weixin.qq.com^$important
+@@||res2.wx.qq.com^$important
+@@||snsvideo.c2c.wechat.com^$important
+@@||video.qq.com^$important
+@@||www.qq.com^$important
+@@||api.unipay.qq.com^$important
 
-!短链接
+# 阿里系
+@@||alibabadns.com^$important
+@@||alibabachengdun.com^$important
+@@||tdum.alibaba.com^$important
+@@||alipay.com^$important
+@@||taobao.com^$important
+
+# 网易
+@@||netease.com^$important
+@@||netease.sonoschina.com^$important
+@@||music.163.com^$important
+@@||music.126.net^$important
+
+# 美团
+@@||img.meituan.net^$important
+@@||msp.meituan.com^$important
+@@||plx.meituan.com^$important
+@@||meituan.com^$important
+@@||api.36dianping.com^$important
+@@||36dianping.com^$important
+
+# B站
+@@||interface.bilibili.com^$important
+@@||broadcast.chat.bilibili.com^$important
+@@||api.vc.bilibili.com^$important
+@@||api.live.bilibili.com^$important
+@@||passport.bilibili.com^$important
+@@||message.bilibili.com^$important
+@@||app.biliapi.com^$important
+@@||archive.biliimg.com^$important
+@@||bilivideo.com^$important
+@@||bvc.bilivideo.com^$important
+@@||keplr.app^$important
+@@||a.w.bilicdn1.com^$important
+@@||gaoneng.bilibili.com^$important
+@@||www.bilibili.com^$important
+@@||api.bilibili.com^$important
+
+
+# 多邻国
+@@||duolingo.cn^$important
+@@||duolingo.com^$important
+
+# 加密相关
+@@||www.mytoken.news^$important
+@@||binance.im^$important
+@@||binance.cloud^
+@@||app.3commas.io^
+@@||binance.com^
+@@||bnappzh.mobi^
+@@||binance.me^
+@@||bntrace.com^
+@@||bnbzh.pro^
+@@||bnbstatic.com^
+@@||bnappzh.net^
+@@||okx.com^$important
+@@||gate.io^$important
+@@||api.x.com^$important
+@@||api.cloud.huawei.com^$important
+@@||api.mytokenapi.com^$important
+@@||binance.click^$important
+@@||binance.info^$important
+
+# 小红书
+@@||lng.xiaohongshu.com^$important
+@@||pages.xiaohongshu.com^$important
+@@||search.xiaohongshu.com^$important
+@@||mall.xiaohongshu.com^$important
+@@||edith.xiaohongshu.com^$important
+@@||live-mall.xiaohongshu.com^$important
+@@||live-feed.xiaohongshu.com^$important
+@@||gslb.xiaohongshu.com^$important
+@@||live-go.xiaohongshu.com^$important
+@@||t2-hb.xiaohongshu.com^$important
+@@||apm-native.xiaohongshu.com^$important
+@@||qimg.xiaohongshu.com^$important
+@@||spider-tracker.xiaohongshu.com^$important
+@@||t3.xiaohongshu.com^$important
+@@||fe.xiaohongshu.com^$important
+@@||trade.m.xiaomiyoupin.com^$important
+@@||m.xiaomiyoupin.com^$important
+@@||ci.xiaohongshu.com^$important
+@@||as.xiaohongshu.com^$important
+@@||flash.xiaohongshu.com^$important
+@@||www.xiaohongshu.com^$important
+@@||t2.xiaohongshu.com^$important
+
+# 其他服务，未归类
+@@||sec.sginput.qq.com^$important
+@@||github.githubassets.com^$important
+@@||n-devs-ssmb.tplinkcloud.com.cn^$important
+@@||resource.flomoapp.com^$important
+@@||v.flomoapp.com^$important
+@@||flomoapp.com^$important
+@@||tplinkcloud.com.cn^$important
+@@||dbankcloud.cn^$important
+@@||api.saasexch.co^$important
+@@||api.pocketuniverse.app^$important
+@@||api.mytokenapi.com^$important
+@@||api.weathercn.com^$important
+@@||capi.coinglass.com^$important
+@@||weatherapi.market.xiaomi.com^$important
+@@||3commas.io^$important
+@@||jd.com^$important
+@@||okjike.com^$important
+@@||jianguoyun.com^$important
+@@||sspai.com^$important
+@@||cdngslb.com^$important
+@@||zhimg.com^$important
+@@||zhihu.com^$important
+@@||minecraft.cn^$important
+@@||pupuapi.com^$important
+@@||hiecheimaetu.com^$important
+@@||qcloudcdn.com^$important
+@@||cdn.beekka.com^$important
+@@||dbankcdn.cn^$important
+@@||dbankcloud.com^$important
+@@||lastpass.com^$important
+@@||guanjia.qq.com^$important
+@@||mask.apple-dns.net^$important
+@@||res.wx.qq.com^$important
+@@||dns.update.netease.com^$important
+@@||tutu.pm^$important
+@@||sdk-api.heycan.com^$important
+@@||linkease.com^$important
+@@||bytecdn.com^$important
+@@||bytecdn.com^$important
+@@||autonavi.com^$important
+@@||amap.com^$important
+@@||jomodns.com^$important
+@@||xhscdn.net^$important
+@@||sns-video-hw.xhscdn.net^$important
+@@||cdnmg.com^$important
+@@||desync.com^$important
+@@||releases.obsidian.md^$important
+@@||dcloud.net.cn^$important
+@@||saasexch.cc^$important
+@@||cloudflare.com^$important
+@@||mkey.163.com^$important
+@@||webapp.163.com^$important
+@@||album.biliimg.com^$important
+@@||c.nstool.ntes53.netease.com^$important
+@@||mokexapp.net^$important
+@@||app-analytics-services.com^$important
+@@||www.mokexapp.me^$important
+@@||wx.music.tc.qq.com^$important
+@@||api.sslauth.sonos.com^$important
+@@||sonos.com^$important
+@@||36krcdn.com^$important
+@@||36kr.com^$important
+@@||cdn.iappdaily.com^$important
+@@||cdn.uopes.cn^$important
+@@||weathercn.com^$important
+@@||vweixinthumb.tc.qq.com^$important
+@@||www.dapenti.com^$important
+@@||www.coinglass.com^$important
+@@||phicdn.net^$important
+@@||akamaiedge.net^$important
+@@||setup.ws.sonos.com^$important
+@@||feature-config.sslauth.sonos.com^$important
+@@||cloudapp.azure.com^$important
+@@||phicdn.net^$important
+@@||ksyunv5.com^$important
+@@||ruguoapp.com^$important
+@@||api-ms-log.huxiu.com^$important
+@@||www-api.huxiu.com^$important
+@@||comment-api.huxiu.com^$important
+@@||api.weibo.com^$important
+@@||api.jdapi.com^$important
+@@||pcw-api.iqiyi.com^$important
+@@||le3-api.game.bilibili.com^$important
+@@||api.geetest.com^$important
+@@||zeus-api.vemarsdev.com^$important
+@@||api.meishesdk.com^$important
+@@||www.douban.com^$important
+@@||open.demonii.com^$important
+@@||tracker.theoks.net^$important
+@@||tracker.openbittorrent.com^$important
+@@||api-edge.cognitive.microsofttranslator.com^$important
+
+# BT节点
+@@||mimc.chat.xiaomi.net^$important
+@@||ros-upload.xiaohongshu.com^$important
+@@||picasso-static.xiaohongshu.com^$important
+@@||tracker2.dler.org^$important
+@@||tracker.filemail.com^$important
+@@||public.tracker.vraphim.com^$important
+@@||torrent-team.net^$important
+@@||fxtt.ru^$important
+
+
+
+# 短链接
 @@goo.gl
 @@bit.ly
 @@sh.st
@@ -710,3 +380,4 @@
 @@||voipfinderrdsliveplay.wxqcloud.qq.com^$important
 @@||voipfinderrdsliveplay3.wxqcloud.qq.com^$important
 @@||voipfinderp2pliveplay.wxqcloud.qq.com^$important
+
