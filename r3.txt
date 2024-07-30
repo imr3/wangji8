@@ -335,7 +335,6 @@
 @@||1337.abcvg.info^$important
 @@||opentracker.i2p.rocks^$important
 @@||p215-fmfmobile.icloud.com.cn^$important
-@@||mmbiz.qpic.cn^$important
 @@||mqtt-internal-public.zhihu.com^$important
 @@||lp-push-server-1653.lastpass.com^$important
 @@||safebrowsing.googleapis.com^$important
