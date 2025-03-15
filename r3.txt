@@ -1,10 +1,9 @@
+# 【白名单】
 # API
 @@||api-iam.intercom.io^$important
 @@||api.saasexch.io^$important
-
 # 谷歌
 @@||google.com^$important
-
 # 小米
 @@||package.cdn.box.xiaomi.com^$important
 @@||preimage1.inter.ptqy.gitv.tv^$important
@@ -13,7 +12,6 @@
 @@||youpin.mi-img.com^$important
 @@||shop.io.mi-img.com^$important
 @@||mifile.cn^$important
-@@||mi.com^$important
 @@||miui.com^$important
 @@||api.io.mi.com^$important
 @@||api.mijia.tech^$important
@@ -48,41 +46,35 @@
 @@||package.cdn.box.xiaomi.com^$important
 @@||preimage1.inter.ptqy.gitv.tv^$important
 @@||ipv6.govt.hu^$important
-
+@@||ispeech.ai.xiaomi.com^$important
 # 华为
 @@||myhuaweicloud.com^$important
 @@||sns-img-hw.xhscdn.com^$important
 @@||cloud.huawei.com.cn^$important
-
 # 苹果
 @@||apple-dns.cn^$important
 @@||icloud.com.cn^$important
 @@||api.smoot.apple.cn^$important
 @@||cloud.huawei.com^$important
 @@||apple-dns.net^$important
-
 # IMG
 @@||sinaimg.cn^$important
 @@||imgcache.qq.com^$important
 @@||gimg3.baidu.com^$important
 @@||gtimg.com^$important
 @@||3gimg.qq.com^$important
-
 # 百度
 @@||fanyi-app.baidu.com^$important
 @@||fanyi.baidu.com^$important
 @@||api.map.baidu.com^$important
 @@||www.baidu.com^$important
-
 # 腾讯系
 @@cdn.*.qq.com
 @@*.myapp.com
-@@||wximg.wxs.qq.com^$important
 @@||weread.qq.com^$important
 @@||mp.weixin.qq.com^$important
 @@||map.qq.com^$important
 @@||cube.weixinbridge.com^$important
-@@||vv.video.qq.com^$important
 @@||wxqcloud.qq.com^$important
 @@||wp.mail.qq.com^$important
 @@||wxpay.qpic.cn^$important
@@ -94,23 +86,19 @@
 @@||wetype.weixin.qq.com^$important
 @@||res2.wx.qq.com^$important
 @@||snsvideo.c2c.wechat.com^$important
-@@||video.qq.com^$important
 @@||www.qq.com^$important
 @@||api.unipay.qq.com^$important
-
 # 阿里系
 @@||alibabadns.com^$important
 @@||alibabachengdun.com^$important
 @@||tdum.alibaba.com^$important
 @@||alipay.com^$important
 @@||taobao.com^$important
-
 # 网易
 @@||netease.com^$important
 @@||netease.sonoschina.com^$important
 @@||music.163.com^$important
 @@||music.126.net^$important
-
 # 美团
 @@||img.meituan.net^$important
 @@||msp.meituan.com^$important
@@ -118,7 +106,6 @@
 @@||meituan.com^$important
 @@||api.36dianping.com^$important
 @@||36dianping.com^$important
-
 # B站
 @@||interface.bilibili.com^$important
 @@||broadcast.chat.bilibili.com^$important
@@ -135,11 +122,11 @@
 @@||gaoneng.bilibili.com^$important
 @@||www.bilibili.com^$important
 @@||api.bilibili.com^$important
-
+@@||passport.bilicomics.com^$important
+@@||passport.bilibili.cn^$important  
 # 多邻国
 @@||duolingo.cn^$important
 @@||duolingo.com^$important
-
 # 加密相关
 @@||www.mytoken.news^$important
 @@||binance.im^$important
@@ -159,7 +146,6 @@
 @@||api.mytokenapi.com^$important
 @@||binance.click^$important
 @@||binance.info^$important
-
 # 小红书
 @@||lng.xiaohongshu.com^$important
 @@||pages.xiaohongshu.com^$important
@@ -183,7 +169,6 @@
 @@||flash.xiaohongshu.com^$important
 @@||www.xiaohongshu.com^$important
 @@||t2.xiaohongshu.com^$important
-
 # 其他服务，未归类
 @@||sec.sginput.qq.com^$important
 @@||github.githubassets.com^$important
@@ -276,7 +261,6 @@
 @@||tracker.theoks.net^$important
 @@||tracker.openbittorrent.com^$important
 @@||api-edge.cognitive.microsofttranslator.com^$important
-
 # BT节点
 @@||mimc.chat.xiaomi.net^$important
 @@||ros-upload.xiaohongshu.com^$important
@@ -286,7 +270,6 @@
 @@||public.tracker.vraphim.com^$important
 @@||torrent-team.net^$important
 @@||fxtt.ru^$important
-
 # 短链接
 @@goo.gl
 @@bit.ly
@@ -297,7 +280,6 @@
 @@||t.cn^$important
 @@||t.co^$important
 @@||t.me^$important
-
 # 高频请求
 @@||open.nyap2p.com^$important
 @@||i-p-v-6.tk^$important
@@ -375,7 +357,6 @@
 @@||voipfinderrdsliveplay.wxqcloud.qq.com^$important
 @@||voipfinderrdsliveplay3.wxqcloud.qq.com^$important
 @@||voipfinderp2pliveplay.wxqcloud.qq.com^$important
-
 # 根据个人记录，用到的CDN节点
 @@||sns-img-hw.xhscdn.com.ctzcdn.cn^$important
 @@||mirrors.aliyun.com^$important
@@ -445,7 +426,6 @@
 @@||wxqcloud.qq.com.cn^$important
 @@||hicloud.com^$important
 @@||xhscdn.com^$important
-
 # 抄作业之中国的CDN
 # 蓝汛
 @@||gslbsvc.net.cn^
@@ -674,7 +654,6 @@
 @@||cdn.cnbj1.fds.api.mi-img.com^$important
 @@||app-measurement.com^$important
 @@||exp.sug.browser.miui.com^$important
-@@||mi.com^$important
 @@||*.mi-img.com^$important
 @@||xzz.xiaomin.tech^$important
 @@||api.io.mi.com^$important
@@ -709,7 +688,6 @@
 @@||f*.market.xiaomi.com^$important
 @@||f*.market.mi-img.com^$important
 @@||market.mi-img.com^$important
-
 # 20240726补充
 @@||t2-json.xiaohongshu.com^$important
 @@||www.tencent.com^$important
@@ -760,3 +738,161 @@
 @@||static.deepl.com^$important
 @@||www.deepl.com^$important
 @@||login-wall.deepl.com^$important
+# 20240817
+@@||3.sonostime.pool.ntp.org^$important
+@@||time.asia.apple.com^$important
+@@||edge.microsoft.com^$important
+@@||app.jianguoyun.com^$important
+@@||appct.jianguoyun.com^$important
+@@||inputsource.pro^$important
+@@||notifications.tradingview.com^$important
+@@||configuration.apple.com^$important
+@@||m.ximalaya.com^$important
+@@||pricealerts.tradingview.com^$important
+@@||cn.tradingview.com^$important
+@@||static.tradingview.com^$important
+@@||s3.tradingview.com^$important
+@@||charts-storage.tradingview.com^$important
+@@||support-middleware.tradingview.com^$important
+@@||prodata.tradingview.com^$important
+@@||www.tradingview.com^$important
+@@||tr.xiaoyuzhoufm.com^$important
+@@||pusherapi-iotdcm.xiaomixiaoai.com^$important
+@@||mpush-api.aliyun.com^$important
+@@||search.bilibili.com^$important
+@@||security.bilibili.com^$important
+@@||cloudcontrol.xiaomixiaoai.com^$important
+@@||api.apple-cloudkit.com^$important
+@@||weatherkit.apple.com^$important
+@@||guzzoni.apple.com^$important
+@@||wx.mail.qq.com^$important
+@@||apac-china-courier-4.push-apple.com.akadns.net^$important
+@@||api2.mina.xiaoaisound.com^$important
+@@||info.mina.xiaoaisound.com^$important
+@@||coreapi.mina.xiaoaisound.com^$important
+@@||payment.mina.xiaoaisound.com^$important
+@@||music.mina.xiaoaisound.com^$important
+@@||voip.mina.xiaoaisound.com^$important
+@@||hd.mina.xiaoaisound.com^$important
+@@||client.wns.windows.com^$important
+@@||api.roombox.xdf.cn^$important
+@@||time.windows.com^$important
+@@||setup.icloud.com^$important
+@@||w.deepl.com^$important
+@@||*.apple.com^$important
+@@||dot.onedns.net^$important
+@@||cdn.jsdelivr.net^$important
+@@||*.icloud.com^$important
+@@||app-site-association.cdn-apple.com^$important
+@@||api-article.huxiu.com^$important
+@@||message-api.huxiu.com^$important
+@@||img.huxiucdn.com^$important
+@@||api-account.huxiu.com^$important
+@@||*.tradingview.com^$important
+@@||www.okx-doh.com^$important
+@@||pool.ntp.org^$important
+@@||coingecko.com^$important
+@@||static.airpackapp.com^$important
+@@||webws.gateio.live^$important
+@@||fx-webws.gateio.live^$important
+@@||test.ustc.edu.cn^$important
+@@||m2.d.meituan.net^$important
+@@||ntp1.aliyun.com^$important
+@@||r1.dianping.com^$important
+@@||r.dianping.com^$important
+@@||2.sonostime.pool.ntp.org^$important
+@@||1.sonostime.pool.ntp.org^$important
+@@||0.sonostime.pool.ntp.org^$important
+@@||premier.sonos.dzcdn.net^$important
+@@||sali.sonos.radio^$important
+@@||update.sonos.com^$important
+@@||service-catalog.ws.sonos.com^$important
+@@||update-timezone.sonos.com^$important
+@@||cntrack.dyson.cn^$important
+@@||partnerapi.cp.dyson.cn^$important
+@@||dns.alidns.com^$important
+@@||io.xiaoyuzhoufm.com^$important
+@@||www.binance.click.lan^$important
+@@||www.mokexapp.me.lan^$important
+@@||static.cloudflareinsights.com^$important
+@@||td.doubleclick.net^$important
+@@||wximg.wxs.qq.com^$important
+@@||wallet.onekeycn.com^$important
+@@||api.venus.io^$important
+@@||bsc-mainnet.nodereal.io^$important
+@@||ws2.mytokenapi.com^$important
+@@||sdkconfig.xiaomi.com^$important
+@@||gimg2.gateimg.com^$important
+@@||gimg.gateimg.com^$important
+@@||notification.onekeycn.com^$important
+@@||idm.iot.mi.com^$important
+@@||list.ws.mytokenapi.com^$important
+@@||i.ai.mi.com^$important
+@@||i.xiaomixiaoai.com^$important
+@@||hlth.io.mi.com^$important
+@@||backpack.exchange^$important
+@@||api-mifit.huami.com^$important
+@@||api.mina.mi.com^$important
+@@||ocsp.godaddy.com^$important
+@@||fx-ws.gateio.ws^$important
+@@||grayconfig.xiaomixiaoai.com^$important
+@@||ot.io.mi.com^$important
+@@||mmsns.c2c.wechat.com^$important
+@@||cdn.tiantiantiaosheng.com^$important
+@@||api.tiantiantiaosheng.com^$important
+@@||api.saasexch.com^$important
+@@||cda.lilisi.com^$important
+@@||dns.google^$important
+@@||paydns.wechatpay.cn^$important
+@@||public1.114dns.com^$important
+@@||tracker.xiaomixiaoai.com^$important
+@@||www.bnappweb.academy^$important
+@@||accounts.binance-electron.com^$important
+@@||api-aicall.xiaoaiassist.com^$important
+@@||okex.org^$important
+@@||telegram.me^$important
+@@||home.mi.com^$important
+@@||pay.bilibili.com^$important
+@@||member.bilibili.com^$important
+@@||api.ximalaya.com^$important
+@@||mobile.ximalaya.com^$important
+@@||api.hybrid.xiaomi.com^$important
+@@||apiunipay.msf.tencent-cloud.com^$important
+@@||geolocation.onetrust.com^$important
+@@||o529943.ingest.us.sentry.io^$important
+@@||o529943.ingest.sentry.io^$important
+@@||mmbiz.qpic.cn^$important
+@@||mc.yandex.ru^$important
+@@||an.yandex.ru^$important
+@@||akamai.net^$important
+@@||tencent-cloud.com^
+@@||akadns.net^$important
+@@||snssdk.gatedata.org^$important
+@@||domain-api.scamsniffer.io^
+@@||scb-hk.onelink.me^$important
+@@||cdn-apple.com^$important
+@@||ks-cdn.com^$important
+@@||api.saasexch.com^$important
+@@||web.gatetrace.com^$important
+@@||csp.withgoogle.com^$important
+@@||check-api.scamsniffer.io^$important
+@@||public.profitwell.com^$important
+@@||wise.com^$important
+@@||mail.qq.com^$important
+@@||dns.adguard-dns.com^$important
+@@||grok.x.com^$important
+@@||dns.nextdns.io^$important
+@@||one.one.one.one^$important
+@@||www.recaptcha.net^$important
+@@||msidentity.com^$important
+@@||spotifycdn.com^$important
+@@||api.spotify.com^$important
+@@||gateimage.com^$important
+@@||yuanbao.tencent.com^$important
+@@||metaso.cn^$important
+@@||www.bnappweb.biz^$important
+@@||x.com^$important
+@@||static.panpno.com^$important
+@@||cloudflare.net^$important
+@@||kidsa-z.com^$important
+@@||icon.gateimg.com^$important
