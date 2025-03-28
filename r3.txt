@@ -123,7 +123,7 @@
 @@||www.bilibili.com^$important
 @@||api.bilibili.com^$important
 @@||passport.bilicomics.com^$important
-@@||passport.bilibili.cn^$important  
+@@||passport.bilibili.cn^$important
 # 多邻国
 @@||duolingo.cn^$important
 @@||duolingo.com^$important
@@ -147,28 +147,7 @@
 @@||binance.click^$important
 @@||binance.info^$important
 # 小红书
-@@||lng.xiaohongshu.com^$important
-@@||pages.xiaohongshu.com^$important
-@@||search.xiaohongshu.com^$important
-@@||mall.xiaohongshu.com^$important
-@@||edith.xiaohongshu.com^$important
-@@||live-mall.xiaohongshu.com^$important
-@@||live-feed.xiaohongshu.com^$important
-@@||gslb.xiaohongshu.com^$important
-@@||live-go.xiaohongshu.com^$important
-@@||t2-hb.xiaohongshu.com^$important
-@@||apm-native.xiaohongshu.com^$important
-@@||qimg.xiaohongshu.com^$important
-@@||spider-tracker.xiaohongshu.com^$important
-@@||t3.xiaohongshu.com^$important
-@@||fe.xiaohongshu.com^$important
-@@||trade.m.xiaomiyoupin.com^$important
-@@||m.xiaomiyoupin.com^$important
-@@||ci.xiaohongshu.com^$important
-@@||as.xiaohongshu.com^$important
-@@||flash.xiaohongshu.com^$important
-@@||www.xiaohongshu.com^$important
-@@||t2.xiaohongshu.com^$important
+
 # 其他服务，未归类
 @@||sec.sginput.qq.com^$important
 @@||github.githubassets.com^$important
@@ -263,8 +242,6 @@
 @@||api-edge.cognitive.microsofttranslator.com^$important
 # BT节点
 @@||mimc.chat.xiaomi.net^$important
-@@||ros-upload.xiaohongshu.com^$important
-@@||picasso-static.xiaohongshu.com^$important
 @@||tracker2.dler.org^$important
 @@||tracker.filemail.com^$important
 @@||public.tracker.vraphim.com^$important
@@ -581,7 +558,7 @@
 @@||gccdn.net^
 # CDN联盟
 @@||cdnudns.com^
-# 白山云 
+# 白山云
 @@||qingcdn.com^
 # 未知
 @@||hdslb.com^
@@ -689,7 +666,6 @@
 @@||f*.market.mi-img.com^$important
 @@||market.mi-img.com^$important
 # 20240726补充
-@@||t2-json.xiaohongshu.com^$important
 @@||www.tencent.com^$important
 @@||cm.bilibili.com^$important
 @@||data.ab.qq.com^$important
@@ -715,9 +691,7 @@
 @@||hcdnv.txspcmcczjv6.c.cdnhwc1.com^$important
 @@||appcfg.v.qq.com^$important
 @@||dmp-data.vip.com^$important
-@@||rn-resource-app.xiaohongshu.com^$important
 @@||resolver.mi.xiaomi.com^$important
-@@||xhs-default.sched.skalego-dk.tdnsstic1.cn^$important
 @@||tclicon.upgrade.huan.tv^$important
 @@||ottaaa.yst.aisee.tv^$important
 @@||data.snm0516.aisee.tv^$important
