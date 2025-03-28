@@ -49,7 +49,6 @@
 @@||ispeech.ai.xiaomi.com^$important
 # 华为
 @@||myhuaweicloud.com^$important
-@@||sns-img-hw.xhscdn.com^$important
 @@||cloud.huawei.com.cn^$important
 # 苹果
 @@||apple-dns.cn^$important
@@ -191,8 +190,6 @@
 @@||autonavi.com^$important
 @@||amap.com^$important
 @@||jomodns.com^$important
-@@||xhscdn.net^$important
-@@||sns-video-hw.xhscdn.net^$important
 @@||cdnmg.com^$important
 @@||desync.com^$important
 @@||releases.obsidian.md^$important
@@ -335,10 +332,8 @@
 @@||voipfinderrdsliveplay3.wxqcloud.qq.com^$important
 @@||voipfinderp2pliveplay.wxqcloud.qq.com^$important
 # 根据个人记录，用到的CDN节点
-@@||sns-img-hw.xhscdn.com.ctzcdn.cn^$important
 @@||mirrors.aliyun.com^$important
 @@||amdc-v6.alipaydns.com^$important
-@@||sns-img-hw.xhscdn.com^$important
 @@||statusapi.micloud.xiaomi.net^
 @@||broker.mina.mi.com^
 @@||micloud.xiaomi.net^
@@ -402,7 +397,6 @@
 @@||biliapi.net^$important
 @@||wxqcloud.qq.com.cn^$important
 @@||hicloud.com^$important
-@@||xhscdn.com^$important
 # 抄作业之中国的CDN
 # 蓝汛
 @@||gslbsvc.net.cn^
