@@ -573,7 +573,7 @@
 @@||data.mistat.intl.xiaomi.com^$important
 @@||f8.market.xiaomi.com^$important
 @@||file.market.xiaomi.com^$importantcdn.ark.qq.com
-@@nileapi.market.xiaomi.com
+@@||nileapi.market.xiaomi.com
 @@||cn.app.chat.xiaomi.net^$important
 @@||connect.rom.miui.com/generate_204^$important
 @@||m.video.xiaomi.com^$important
@@ -909,3 +909,14 @@
 @@||relay.walletconnect.com^
 @@||uni.onekey-asset.com^
 @@||ipfs.io^
+@@||wxa.wxs.qq.com^
+@@||push-service.sginput.qq.com^
+@@||substackcdn.com^
+@@||substack.com^
+@@||microsoftonline.com^
+@@||geckoterminal.com^
+@@||ovscdns.com^
+@@||dnsv1.com^
+@@||mmhead.c2c.wechat.com^
+@@||mmsns.hk.wechat.com^
+@@||xiaomiyoupin.com^
