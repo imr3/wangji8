@@ -37,3 +37,106 @@
 ||httpsdns.baidu.com^$important
 ||lofter.httpdns.c.163.com^$important
 ||music.httpdns.c.163.com^$important
+
+# PCDN列表，Anti-AD 提供
+||bsccdn.net^$important
+||dyp2p-ali.douyucdn.cn^$important
+||dyp2p-hw.douyucdn.cn^$important
+||kuiniuca.com^$important
+||onethingpcs.com^$important
+||p2p-ali.douyucdn.cn^$important
+||p2p.huya.com^$important
+||p2p.qq.com^$important
+||p2pchunk-hw.douyucdn.cn^$important
+||p2pchunk-table.douyucdn.cn^$important
+||p2pchunk-ws.douyucdn.cn^$important
+||p2perrorlog.douyucdn.cn^$important
+||p2plive-ali.douyucdn.cn^$important
+||p2plive-ws.douyucdn.cn^$important
+||p2plog.douyucdn.cn^$important
+||p2ptun.qq.com^$important
+||p2pupdate.gamedl.qq.com^$important
+||p2pupgrade.gamedl.qq.com^$important
+||p2pvod-ws.douyucdn.cn^$important
+||pcdn.yximgs.com^$important
+||pkoplink.com^$important
+||saxysec.com^$important
+||stun.douyucdn.cn^$important
+||stun.hitv.com^$important
+||stun1.douyucdn.cn^$important
+||szbdyd.com^$important
+||uhabo.com^$important
+||xycdn.com^$important
+
+# 抄作业之屏蔽快手
+127.0.0.1 api.gifshow.com
+127.0.0.1 jsmov2.a.yximgs.com
+127.0.0.1 txmov2.a.yximgs.com
+127.0.0.1 alimov2.a.yximgs.com
+127.0.0.1 apissl.gifshow.com
+127.0.0.1 api.gifshow.com
+127.0.0.1 js2.a.yximgs.com
+127.0.0.1 tx2.a.yximgs.com
+127.0.0.1 bd.a.yximgs.com
+127.0.0.1 ali2.a.yximgs.com
+127.0.0.1 aliimg.a.yximgs.com
+127.0.0.1 qn.a.yximgs.com
+127.0.0.1 ipdispatch.live.xycdn.com
+127.0.0.1 ipdispatch.live.xycdn.com
+127.0.0.1 sdk.open.phone.igexin.com
+127.0.0.1 upload.gifshow.com
+127.0.0.1 api.ksapisrv.com
+127.0.0.1 sf2018-api.gifshow.com
+127.0.0.1 umc.danuoyi.alicdn.com
+127.0.0.1 sdk.conf.igexin.com
+127.0.0.1 qnmov.a.yximgs.com
+127.0.0.1 upload.ksapisrv.com
+127.0.0.1 sdkoptedge.chinanetcenter.com
+127.0.0.1 upload.ksapisrv.com
+127.0.0.1 static.yximgs.com
+127.0.0.1 apissl.ksapisrv.com
+127.0.0.1 ntp.nc.gifshow.com
+127.0.0.1 bd-livemate.pull.yximgs.com
+127.0.0.1 bd.pull.yximgs.com
+
+# 短剧
+||viterbi-tech.com^
+||resource-cdn.viterbi-tech.com^
+||app.viterbi-tech.com^
+||hub5pnc.sandai.net^
+||hub5pn.wap.sandai.net^
+||hub5idx.v6.shub.sandai.net^
+||idx.v6.shub.sandai.net^
+||hub5sr.v6.shub.sandai.net^
+||hub5pr.v6.phub.sandai.net^
+||pr.m.hub.sandai.net^
+||hub5p.sandai.net^
+||flowcontroll.dcdn.sandai.net^
+||jiatouyihao.cn^
+||ahdohpiechei.com^
+||siomxity.com^
+||changdunovel.com^
+||novelquickapp.com^
+||homeborn.cn^
+||pacloudflare.com^
+||sf6-cdn-tos.toutiaostatic.com^
+||lf3-static.bytednsdoc.com^
+||bytednsdoc.com^
+||toutiaostatic.com^
+||jidiandian.cn^
+||yingzhongshare.com^
+||volcvod.com^
+||shuhonggz.com^
+||v3-csj-sp.csjdeveloper.com^
+||fasthuyitool.jidiandian.cn^
+||vod-settings.volcvod.com^
+||vod-license-m.volccdn.com^
+||csj-sp.csjdeveloper.com^
+||zt.gifshow.com^
+||sensors.yingzhongshare.com^
+||stat.shuhonggz.com^
+||huyitool.jidiandian.cn^
+||common.shuhonggz.com^
+||sdk.shuhonggz.com^
+||kl.ucb6.com^
+||csjdeveloper.com^
