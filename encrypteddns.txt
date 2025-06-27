@@ -69,35 +69,35 @@
 ||xycdn.com^$important
 
 # 抄作业之屏蔽快手
-127.0.0.1 api.gifshow.com
-127.0.0.1 jsmov2.a.yximgs.com
-127.0.0.1 txmov2.a.yximgs.com
-127.0.0.1 alimov2.a.yximgs.com
-127.0.0.1 apissl.gifshow.com
-127.0.0.1 api.gifshow.com
-127.0.0.1 js2.a.yximgs.com
-127.0.0.1 tx2.a.yximgs.com
-127.0.0.1 bd.a.yximgs.com
-127.0.0.1 ali2.a.yximgs.com
-127.0.0.1 aliimg.a.yximgs.com
-127.0.0.1 qn.a.yximgs.com
-127.0.0.1 ipdispatch.live.xycdn.com
-127.0.0.1 ipdispatch.live.xycdn.com
-127.0.0.1 sdk.open.phone.igexin.com
-127.0.0.1 upload.gifshow.com
-127.0.0.1 api.ksapisrv.com
-127.0.0.1 sf2018-api.gifshow.com
-127.0.0.1 umc.danuoyi.alicdn.com
-127.0.0.1 sdk.conf.igexin.com
-127.0.0.1 qnmov.a.yximgs.com
-127.0.0.1 upload.ksapisrv.com
-127.0.0.1 sdkoptedge.chinanetcenter.com
-127.0.0.1 upload.ksapisrv.com
-127.0.0.1 static.yximgs.com
-127.0.0.1 apissl.ksapisrv.com
-127.0.0.1 ntp.nc.gifshow.com
-127.0.0.1 bd-livemate.pull.yximgs.com
-127.0.0.1 bd.pull.yximgs.com
+||api.gifshow.com^
+||jsmov2.a.yximgs.com^
+||txmov2.a.yximgs.com^
+||alimov2.a.yximgs.com^
+||apissl.gifshow.com^
+||api.gifshow.com^
+||js2.a.yximgs.com^
+||tx2.a.yximgs.com^
+||bd.a.yximgs.com^
+||ali2.a.yximgs.com^
+||aliimg.a.yximgs.com^
+||qn.a.yximgs.com^
+||ipdispatch.live.xycdn.com^
+||ipdispatch.live.xycdn.com^
+||sdk.open.phone.igexin.com^
+||upload.gifshow.com^
+||api.ksapisrv.com^
+||sf2018-api.gifshow.com^
+||umc.danuoyi.alicdn.com^
+||sdk.conf.igexin.com^
+||qnmov.a.yximgs.com^
+||upload.ksapisrv.com^
+||sdkoptedge.chinanetcenter.com^
+||upload.ksapisrv.com^
+||static.yximgs.com^
+||apissl.ksapisrv.com^
+||ntp.nc.gifshow.com^
+||bd-livemate.pull.yximgs.com^
+||bd.pull.yximgs.com^
 
 # 短剧
 ||viterbi-tech.com^
