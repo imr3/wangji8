@@ -556,41 +556,7 @@
 # 未知
 @@||hdslb.com^
 @@||hdslb.net^
-!  抄作业之屏蔽快手
-127.0.0.1 api.gifshow.com
-127.0.0.1 jsmov2.a.yximgs.com
-127.0.0.1 txmov2.a.yximgs.com
-127.0.0.1 alimov2.a.yximgs.com
-127.0.0.1 apissl.gifshow.com
-127.0.0.1 api.gifshow.com
-127.0.0.1 js2.a.yximgs.com
-127.0.0.1 tx2.a.yximgs.com
-127.0.0.1 bd.a.yximgs.com
-127.0.0.1 ali2.a.yximgs.com
-127.0.0.1 aliimg.a.yximgs.com
-127.0.0.1 qn.a.yximgs.com
-127.0.0.1 ipdispatch.live.xycdn.com
-127.0.0.1 ipdispatch.live.xycdn.com
-127.0.0.1 sdk.open.phone.igexin.com
-127.0.0.1 upload.gifshow.com
-127.0.0.1 api.ksapisrv.com
-127.0.0.1 sf2018-api.gifshow.com
-127.0.0.1 c-hzgt2.getui.com
-127.0.0.1 umc.danuoyi.alicdn.com
-127.0.0.1 sdk.conf.igexin.com
-127.0.0.1 qnmov.a.yximgs.com
-127.0.0.1 upload.ksapisrv.com
-127.0.0.1 sdkoptedge.chinanetcenter.com
-127.0.0.1 c-hzgt2.getui.com
-127.0.0.1 upload.ksapisrv.com
-127.0.0.1 static.yximgs.com
-127.0.0.1 apissl.ksapisrv.com
-127.0.0.1 ntp.nc.gifshow.com
-127.0.0.1 bd-livemate.pull.yximgs.com
-127.0.0.1 bd.pull.yximgs.com
 # 抄作业之小米系
-@@a.huodong.mi.cn
-@@m.video.xiaomi.com
 @@||api.account.xiaomi.com^$important
 @@||api.comm.miui.com^$important
 @@||api.device.xiaomi.net^$important
