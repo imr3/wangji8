@@ -104,24 +104,7 @@
 @@||meituan.com^$important
 @@||api.36dianping.com^$important
 @@||36dianping.com^$important
-# B站
-@@||interface.bilibili.com^$important
-@@||broadcast.chat.bilibili.com^$important
-@@||api.vc.bilibili.com^$important
-@@||api.live.bilibili.com^$important
-@@||passport.bilibili.com^$important
-@@||message.bilibili.com^$important
-@@||app.biliapi.com^$important
-@@||archive.biliimg.com^$important
-@@||bilivideo.com^$important
-@@||bvc.bilivideo.com^$important
-@@||keplr.app^$important
-@@||a.w.bilicdn1.com^$important
-@@||gaoneng.bilibili.com^$important
-@@||www.bilibili.com^$important
-@@||api.bilibili.com^$important
-@@||passport.bilicomics.com^$important
-@@||passport.bilibili.cn^$important
+
 # 多邻国
 @@||duolingo.cn^$important
 @@||duolingo.com^$important
@@ -601,10 +584,7 @@
 @@||connect.rom.miui.com^$important
 @@||mobile.controller.duokanbox.com^$important
 @@||o2o.api.xiaomi.com^$important
-# 小米视频
-@@||*.video.xiaomi.com^$important
-@@||mivideo.cdn.pandora.xiaomi.com^$important
-@@||v*-dc-ad.ixigua.com^$important
+
 # 应用商店
 @@||sec-cdn.static.xiaomi.net^$important
 @@||fgc0.market.xiaomi.com^$important
