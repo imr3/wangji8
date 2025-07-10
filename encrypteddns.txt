@@ -110,3 +110,37 @@
 ||sdk.shuhonggz.com^
 ||kl.ucb6.com^
 ||csjdeveloper.com^
+
+# 抖音规则
+||douyin.com^
+||douyincdn.com^
+||ixigua.com^
+||snssdk.com^
+||toutiao.com^
+||yximgs.com^
+||byteimg.com^
+||douyinvod.com^
+||iesdouyin.com^
+||api.amemv.com^
+||aweme.snssdk.com^
+||dm.toutiao.com^
+||effect.snssdk.com^
+||hotsoon.snssdk.com^
+||i.snssdk.com^
+||is.snssdk.com^
+||is.snssdk.com^
+||iu.snssdk.com^
+||lf.snssdk.com^
+||log.snssdk.com^
+||mon.snssdk.com^
+||xlog.snssdk.com^
+||api-sv.videoparse.cn^
+||*.douyincdn.com^$important
+||*.douyinliving.com^$important
+
+# 腾讯游戏
+||m.gamer.qq.com^
+||gamematrix.qq.com^
+||hc.tdm.qq.com^
+||receiver.tdm.qq.com^
+||dhp.qq.com^
