@@ -1002,3 +1002,6 @@
 @@||vip.ipv6.cdnhwcbzj102.com^
 @@||shifen.com^
 @@||n.shifen.com^
+@@||cloud.tencent.com^
+@@||mc.tencent.com^
+@@||developer.xiaomi.com^
