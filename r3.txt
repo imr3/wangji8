@@ -1012,3 +1012,6 @@
 @@||social-hw.gateio.im^
 @@||api.web3gate.cc^
 @@||social-tx.gateio.im^
+@@||tencentcloudapi.com^
+@@||xf-yun.com^
+@@||cdn.apple-mapkit.com^
