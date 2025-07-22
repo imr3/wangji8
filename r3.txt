@@ -1006,3 +1006,9 @@
 @@||mc.tencent.com^
 @@||developer.xiaomi.com^
 @@||image.gatedataimg.com^
+@@||www.binance.info^
+@@||bin.bnbstatic.com^
+@@||dapp.gateio.services^
+@@||social-hw.gateio.im^
+@@||api.web3gate.cc^
+@@||social-tx.gateio.im^
