@@ -14,4 +14,6 @@
 
 AdGuard Home 添加地址：
 https://imr3.github.io/wangji8/r3.txt
+
 https://imr3.github.io/wangji8/encrypteddns.txt
+
