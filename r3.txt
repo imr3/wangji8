@@ -1015,3 +1015,5 @@
 @@||tencentcloudapi.com^
 @@||xf-yun.com^
 @@||cdn.apple-mapkit.com^
+@@||pintuanya.com^
+@@||youdao.com^
