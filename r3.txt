@@ -1023,3 +1023,9 @@
 @@||coinmarketcab.com^
 @@||cloudflare-dns.com^
 @@||in-addr.arpa^
+@@||elong.com^
+@@||elongstatic.com^
+@@||caocaokeji.cn^
+@@||jcloudimg.com^
+@@||jcloud-cdn.com^
+@@||jddebug.com^
