@@ -1029,3 +1029,9 @@
 @@||jcloudimg.com^
 @@||jcloud-cdn.com^
 @@||jddebug.com^
+@@||appinn.com^
+@@||ip6.arpa^
+@@||wlx.tenpay.com^
+@@||tenpay.com^
+@@||api.commonservice.io^
+@@||www.redditstatic.com^
