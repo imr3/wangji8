@@ -1170,3 +1170,8 @@
 @@||mytokenpocket.vip^
 @@||binance.vision^
 @@||bnbchain.org^
+@@||wechat.com^
+@@||blockrazor.xyz^
+@@||tpstatic.net^
+@@||bscscan.com^
+@@||ninicoin.io^
