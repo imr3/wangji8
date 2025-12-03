@@ -1175,3 +1175,13 @@
 @@||tpstatic.net^
 @@||bscscan.com^
 @@||ninicoin.io^
+@@||isafepal.com^
+@@||qqmusic.qq.com^
+@@||wp.isafepal.com^
+@@||wx1.qq.com^
+@@||cctv.com^
+@@||mina.mi.com^
+@@||cn.mqtt.io.mi.com^
+@@||g.mi.com^
+@@||panewslab.com^
+@@||google.cn^
