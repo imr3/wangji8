@@ -144,3 +144,13 @@
 ||hc.tdm.qq.com^
 ||receiver.tdm.qq.com^
 ||dhp.qq.com^
+
+# 灰产
+||extensionplay.com^
+||yearnnewtab.com^
+||api.cgatgpt.net^
+||dergoodting.com^
+||yearnnewtab.com^
+||cleanmasters.store^
+||s-85283.gotocdn.com^
+||s-82923.gotocdn.com^
