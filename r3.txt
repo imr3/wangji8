@@ -1185,3 +1185,10 @@
 @@||g.mi.com^
 @@||panewslab.com^
 @@||google.cn^
+# 欧洲
+@@||api.usercentrics.eu^
+@@||realtime.ably.io^
+@@||main.realtime.ably.net^
+@@||aggregator.service.usercentrics.eu^
+@@||prodregistryv2.org^
+@@||cdn.braze.eu^
